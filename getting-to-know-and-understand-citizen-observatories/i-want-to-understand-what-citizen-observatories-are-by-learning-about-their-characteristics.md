@@ -49,7 +49,7 @@ Citizen Observatories can be set up to monitor issues such as:
 
 ## You may also be interested in:
 
-[I want to understand what Citizen Observatories are by learning about their history.](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/getting-to-know-and-understand-citizen-observatories/i-want-to-understand-what-citizen-observatories-are-by-learning-about-the-history-of-cos)
+[I want to understand what Citizen Observatories are by learning about their history.](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/LKuZ7Ak1FYzlNEznk44U/getting-to-know-and-understand-citizen-observatories/i-want-to-understand-what-citizen-observatories-are-by-learning-about-the-history-of-cos)
 
 
 
