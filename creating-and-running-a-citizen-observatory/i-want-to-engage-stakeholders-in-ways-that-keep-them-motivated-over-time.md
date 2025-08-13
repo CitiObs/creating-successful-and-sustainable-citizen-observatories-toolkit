@@ -77,9 +77,9 @@ In user-centred and service-oriented design, a ‘persona’ is a character that
 
 ## You may also be interested in:
 
-[I want to engage stakeholders by understanding the context and identifying key stakeholders](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-engage-stakeholders-by-understanding-the-context-and-identifying-key-stakeholders)
+[I want to engage stakeholders by understanding the context and identifying key stakeholders](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/x5I625C1iAGsddh976A6/creating-and-running-a-citizen-observatory/i-want-to-engage-stakeholders-by-understanding-the-context-and-identifying-key-stakeholders)
 
-[I want to engage stakeholders by learning how to work with various types of stakeholders](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-engage-stakeholders-by-learning-how-to-work-with-various-types-of-stakeholders)
+[I want to engage stakeholders by learning how to work with various types of stakeholders](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/x5I625C1iAGsddh976A6/creating-and-running-a-citizen-observatory/i-want-to-engage-stakeholders-by-learning-how-to-work-with-various-types-of-stakeholders)
 
 
 

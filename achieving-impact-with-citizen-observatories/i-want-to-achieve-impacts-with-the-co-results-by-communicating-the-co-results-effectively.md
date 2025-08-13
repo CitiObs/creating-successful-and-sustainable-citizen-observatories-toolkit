@@ -69,11 +69,11 @@ Consider these methodologies from the beginning of the observatory and try to pl
 
 ## You may also be interested in:
 
-[I want to achieve impact with the Citizen Observatory results by triggering change](../)
+[I want to achieve impact with the Citizen Observatory results by triggering change](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/rDoyUvGphEeojUPmEyRQ/achieving-impact-with-citizen-observatories/i-want-to-achieve-impacts-with-the-co-results-by-triggering-change)
 
-[I want to achieve impact with the Citizen Observatory results by linking the Citizen Observatory to the SDGs](../creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-integrating-data-from-several-citizen-observatories-other-sources.md)
+[I want to achieve impact with the Citizen Observatory results by linking the Citizen Observatory to the SDGs](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/rDoyUvGphEeojUPmEyRQ/achieving-impact-with-citizen-observatories/i-want-to-achieve-impacts-with-the-co-results-by-linking-the-co-to-the-sdgs)
 
-[I want to achieve impact with the Citizen Observatory results by adopting open data policies & data standards](../creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-integrating-data-from-several-citizen-observatories-other-sources.md)
+[I want to achieve impact with the Citizen Observatory results by adopting open data policies & data standards](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/rDoyUvGphEeojUPmEyRQ/achieving-impact-with-citizen-observatories/i-want-to-achieve-impacts-with-the-co-results-by-adopting-open-data-policies-and-data-standards)
 
 
 

@@ -56,7 +56,7 @@ You can use impact stories to report on changes that result from your Citizen Ob
 
 ## You may also be interested in:
 
-[I want to measure impacts of the Citizen Observatory via a suitable approach](../creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-integrating-data-from-several-citizen-observatories-other-sources.md)
+[I want to measure impacts of the Citizen Observatory via a suitable approach](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/YNcsnBo4H0633fzRkVIb/achieving-impact-with-citizen-observatories/i-want-to-measure-impacts-of-the-co-via-suitable-approach)
 
 
 

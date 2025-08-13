@@ -66,7 +66,7 @@ Although there are tools for off-the-shelf data analysis such as QGIS (see list 
 
 ## You may also be interested in:
 
-[I want to generate insights & results from our data & knowledge by understanding & interpreting the data](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-generate-insights-and-results-from-our-data-and-knowledge-by-visualising-and-interpreting)
+[I want to generate insights & results from our data & knowledge by understanding & interpreting the data](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/rDoyUvGphEeojUPmEyRQ/creating-and-running-a-citizen-observatory/i-want-to-generate-insights-and-results-from-our-data-and-knowledge-by-visualising-and-interpreting)
 
 
 

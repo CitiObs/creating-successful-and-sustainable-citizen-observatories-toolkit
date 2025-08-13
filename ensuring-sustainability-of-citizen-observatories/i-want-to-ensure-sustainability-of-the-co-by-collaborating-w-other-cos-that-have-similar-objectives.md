@@ -54,13 +54,13 @@ Several regional and transnational citizen science associations exist that run s
 
 ## You may also be interested in:
 
-[I want to ensure sustainability of the Citizen Observatory after the funding period by making project outputs with open access](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/ensuring-sustainability-of-citizen-observatories/i-want-to-ensure-sustainability-of-the-co-by-making-project-outputs-open-access)
+[I want to ensure sustainability of the Citizen Observatory after the funding period by making project outputs with open access](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/4pwIMlJNF160hrEwpahI/ensuring-sustainability-of-citizen-observatories/i-want-to-ensure-sustainability-of-the-co-by-making-project-outputs-open-access)
 
-[I want to ensure sustainability of the Citizen Observatory after the funding period by accessing open funding calls](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/ensuring-sustainability-of-citizen-observatories/i-want-to-ensure-sustainability-of-the-co-by-accessing-open-funding-calls)
+[I want to ensure sustainability of the Citizen Observatory after the funding period by accessing open funding calls](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/4pwIMlJNF160hrEwpahI/ensuring-sustainability-of-citizen-observatories/i-want-to-ensure-sustainability-of-the-co-by-accessing-open-funding-calls)
 
-[I want to ensure sustainability of the Citizen Observatory after the funding period by defining a new service](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/ensuring-sustainability-of-citizen-observatories/i-want-to-ensure-sustainability-of-the-co-by-defining-a-new-service)
+[I want to ensure sustainability of the Citizen Observatory after the funding period by defining a new service](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/4pwIMlJNF160hrEwpahI/ensuring-sustainability-of-citizen-observatories/i-want-to-ensure-sustainability-of-the-co-by-defining-a-new-service)
 
-[I want to ensure sustainability of the Citizen Observatory after the funding period by moving the infrastructure of the observatory into the cloud](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/ensuring-sustainability-of-citizen-observatories/i-want-to-ensure-sustainability-of-the-co-by-moving-the-infrastructure-of-the-co-into-the-cloud)
+[I want to ensure sustainability of the Citizen Observatory after the funding period by moving the infrastructure of the observatory into the cloud](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/4pwIMlJNF160hrEwpahI/ensuring-sustainability-of-citizen-observatories/i-want-to-ensure-sustainability-of-the-co-by-moving-the-infrastructure-of-the-co-into-the-cloud)
 
 
 

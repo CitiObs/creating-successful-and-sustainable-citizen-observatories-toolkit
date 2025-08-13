@@ -70,13 +70,13 @@ The work done in the [Citizen Science Cost Action CA15212](https://www.cs-eu.net
 
 ## You may also be interested in:
 
-[I want to work with data by collecting data](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-collecting-data)
+[I want to work with data by collecting data](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/8pcnqIjPKKYwLNjvudDt/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-collecting-data)
 
-[I want to work with data by ensuring data quality](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-ensuring-data-quality)
+[I want to work with data by ensuring data quality](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/jufBRUyWzlW5nLDPm4w3/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-ensuring-data-quality)
 
-[I want to work with data by sharing our Citizen Observatory data](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-sharing-our-citizen-observatory-data)
+[I want to work with data by sharing our Citizen Observatory data](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/jufBRUyWzlW5nLDPm4w3/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-sharing-our-citizen-observatory-data)
 
-[I want to work with data by integrating data from several Citizen Observatories/other sources](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-integrating-data-from-several-citizen-observatories-other-sources)
+[I want to work with data by integrating data from several Citizen Observatories/other sources](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/jufBRUyWzlW5nLDPm4w3/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-integrating-data-from-several-citizen-observatories-other-sources)
 
 
 

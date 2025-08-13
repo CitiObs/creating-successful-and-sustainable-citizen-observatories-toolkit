@@ -58,13 +58,13 @@ To define the key types of contributions required for your Citizen Observatory, 
 
 ## You may also be interested in:
 
-[I want to set up a Citizen Observatory by building a community](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-set-up-a-citizen-observatory-by-building-community)
+[I want to set up a Citizen Observatory by building a community](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/sJMtzYB6zzpiXdnVpYUA/creating-and-running-a-citizen-observatory/i-want-to-set-up-a-citizen-observatory-by-building-community)
 
-[I want to set up a Citizen Observatory through a suitable co-design process](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-set-up-a-citizen-observatory-through-a-suitable-co-design-process)
+[I want to set up a Citizen Observatory through a suitable co-design process](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/sJMtzYB6zzpiXdnVpYUA/creating-and-running-a-citizen-observatory/i-want-to-set-up-a-citizen-observatory-through-a-suitable-co-design-process)
 
-[I want to set up a Citizen Observatory by finding and secure funding](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-set-up-a-citizen-observatory-and-need-to-find-and-secure-funding)
+[I want to set up a Citizen Observatory by finding and secure funding](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/sJMtzYB6zzpiXdnVpYUA/creating-and-running-a-citizen-observatory/i-want-to-set-up-a-citizen-observatory-and-need-to-find-and-secure-funding)
 
-[I want to set up a Citizen Observatory by complying with ethics](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-set-up-a-citizen-observatory-and-comply-with-ethics)
+[I want to set up a Citizen Observatory by complying with ethics](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/sJMtzYB6zzpiXdnVpYUA/creating-and-running-a-citizen-observatory/i-want-to-set-up-a-citizen-observatory-and-comply-with-ethics)
 
 
 

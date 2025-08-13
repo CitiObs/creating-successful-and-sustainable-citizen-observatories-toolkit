@@ -28,7 +28,7 @@ While trying to identify impacts too early in the process of setting up the obse
 
 ## You may also be interested in:
 
-[I want to measure impacts of the Citizen Observatory via participatory evaluation](../creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-integrating-data-from-several-citizen-observatories-other-sources.md)
+[I want to measure impacts of the Citizen Observatory via participatory evaluation](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/YNcsnBo4H0633fzRkVIb/achieving-impact-with-citizen-observatories/i-want-to-measure-impacts-of-the-co-via-participatory-evaluation-with-co-participants)
 
 
 

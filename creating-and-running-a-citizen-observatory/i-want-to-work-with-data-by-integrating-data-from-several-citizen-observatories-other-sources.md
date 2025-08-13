@@ -26,13 +26,13 @@ The various Citizen Observatories and citizen science initiatives in place have 
 
 ## You may also be interested in:
 
-[I want to work with data by collecting data](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-collecting-data)
+[I want to work with data by collecting data](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/P2ESEVnb7x9THgs4UQg4/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-collecting-data)
 
-[I want to work with data by managing the data](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-managing-the-data)
+[I want to work with data by managing the data](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/P2ESEVnb7x9THgs4UQg4/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-managing-the-data)
 
-[I want to work with data by ensuring data quality](../)
+[I want to work with data by ensuring data quality](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/P2ESEVnb7x9THgs4UQg4/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-ensuring-data-quality)
 
-[I want to work with data by sharing our Citizen Observatory data](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-sharing-our-citizen-observatory-data)
+[I want to work with data by sharing our Citizen Observatory data](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/P2ESEVnb7x9THgs4UQg4/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-sharing-our-citizen-observatory-data)
 
 
 

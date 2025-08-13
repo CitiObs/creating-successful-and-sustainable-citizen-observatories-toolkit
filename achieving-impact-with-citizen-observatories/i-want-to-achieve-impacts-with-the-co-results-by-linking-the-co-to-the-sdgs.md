@@ -62,11 +62,11 @@ According to a systematic review undertaken by the WeObserve SDGs CoP, citizen s
 
 ## You may also be interested in:
 
-[I want to achieve impact with the Citizen Observatory results by communicating the Citizen Observatory results effectively](../creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-integrating-data-from-several-citizen-observatories-other-sources.md)
+[I want to achieve impact with the Citizen Observatory results by communicating the Citizen Observatory results effectively](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/6k3Hq60ndRTIoY19lICj/achieving-impact-with-citizen-observatories/i-want-to-achieve-impacts-with-the-co-results-by-communicating-the-co-results-effectively)
 
-[I want to achieve impact with the Citizen Observatory results by triggering change](../creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-integrating-data-from-several-citizen-observatories-other-sources.md)
+[I want to achieve impact with the Citizen Observatory results by triggering change](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/6k3Hq60ndRTIoY19lICj/achieving-impact-with-citizen-observatories/i-want-to-achieve-impacts-with-the-co-results-by-triggering-change)
 
-[I want to achieve impact with the Citizen Observatory results by adopting open data policies & data standards](../creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-integrating-data-from-several-citizen-observatories-other-sources.md)
+[I want to achieve impact with the Citizen Observatory results by adopting open data policies & data standards](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/6k3Hq60ndRTIoY19lICj/achieving-impact-with-citizen-observatories/i-want-to-achieve-impacts-with-the-co-results-by-adopting-open-data-policies-and-data-standards)
 
 
 

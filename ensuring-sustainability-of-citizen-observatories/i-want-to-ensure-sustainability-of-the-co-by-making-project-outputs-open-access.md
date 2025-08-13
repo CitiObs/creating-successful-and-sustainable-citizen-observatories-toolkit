@@ -53,19 +53,19 @@ When transferring knowledge to citizens, you can think of several channels and u
 
 ## You may also be interested in:
 
-[I want to work with data by sharing our Citizen Observatory data](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-sharing-our-citizen-observatory-data)
+[I want to work with data by sharing our Citizen Observatory data](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/YNcsnBo4H0633fzRkVIb/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-sharing-our-citizen-observatory-data)
 
-[I want to achieve impact with the Citizen Observatory results by communicating the Citizen Observatory results effectively](../creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-integrating-data-from-several-citizen-observatories-other-sources.md)
+[I want to achieve impact with the Citizen Observatory results by communicating the Citizen Observatory results effectively](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/YNcsnBo4H0633fzRkVIb/achieving-impact-with-citizen-observatories/i-want-to-achieve-impacts-with-the-co-results-by-communicating-the-co-results-effectively)
 
-[I want to achieve impact with the Citizen Observatory results by adopting open data policies and standards](../creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-integrating-data-from-several-citizen-observatories-other-sources.md)
+[I want to achieve impact with the Citizen Observatory results by adopting open data policies and standards](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/AVk10pGxUrxz6q4lko9L/achieving-impact-with-citizen-observatories/i-want-to-achieve-impacts-with-the-co-results-by-adopting-open-data-policies-and-data-standards)
 
-[I want to ensure sustainability of the Citizen Observatory after the funding period by accessing open funding calls](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/ensuring-sustainability-of-citizen-observatories/i-want-to-ensure-sustainability-of-the-co-by-accessing-open-funding-calls)
+[I want to ensure sustainability of the Citizen Observatory after the funding period by accessing open funding calls](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/AVk10pGxUrxz6q4lko9L/ensuring-sustainability-of-citizen-observatories/i-want-to-ensure-sustainability-of-the-co-by-accessing-open-funding-calls)
 
-[I want to ensure sustainability of the Citizen Observatory after the funding period by defining a new service](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/ensuring-sustainability-of-citizen-observatories/i-want-to-ensure-sustainability-of-the-co-by-defining-a-new-service)
+[I want to ensure sustainability of the Citizen Observatory after the funding period by defining a new service](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/AVk10pGxUrxz6q4lko9L/ensuring-sustainability-of-citizen-observatories/i-want-to-ensure-sustainability-of-the-co-by-defining-a-new-service)
 
-[I want to ensure sustainability of the Citizen Observatory after the funding period by moving the infrastructure of the observatory into the cloud](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/ensuring-sustainability-of-citizen-observatories/i-want-to-ensure-sustainability-of-the-co-by-moving-the-infrastructure-of-the-co-into-the-cloud)
+[I want to ensure sustainability of the Citizen Observatory after the funding period by moving the infrastructure of the observatory into the cloud](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/AVk10pGxUrxz6q4lko9L/ensuring-sustainability-of-citizen-observatories/i-want-to-ensure-sustainability-of-the-co-by-moving-the-infrastructure-of-the-co-into-the-cloud)
 
-[I want to ensure sustainability of the Citizen Observatory after the funding period by collaborating with other Citizen Observatories with similar objectives](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/ensuring-sustainability-of-citizen-observatories/i-want-to-ensure-sustainability-of-the-co-by-collaborating-w-other-cos-that-have-similar-objectives)
+[I want to ensure sustainability of the Citizen Observatory after the funding period by collaborating with other Citizen Observatories with similar objectives](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/AVk10pGxUrxz6q4lko9L/ensuring-sustainability-of-citizen-observatories/i-want-to-ensure-sustainability-of-the-co-by-collaborating-w-other-cos-that-have-similar-objectives)
 
 
 

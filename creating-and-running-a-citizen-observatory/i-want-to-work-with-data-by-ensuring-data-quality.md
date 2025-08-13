@@ -74,17 +74,17 @@ User feedback about data can also be a good source of quality estimation. Anothe
 
 ## You may also be interested in:
 
-[I want to work with data by collecting data](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-collecting-data)
+[I want to work with data by collecting data](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/jufBRUyWzlW5nLDPm4w3/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-collecting-data)
 
-[I want to work with data by managing data](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-managing-the-data)
+[I want to work with data by managing data](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/jufBRUyWzlW5nLDPm4w3/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-managing-the-data)
 
-[I want to work with data by sharing Citizen Observatory data](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-sharing-our-citizen-observatory-data)
+[I want to work with data by sharing Citizen Observatory data](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/jufBRUyWzlW5nLDPm4w3/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-sharing-our-citizen-observatory-data)
 
-[I want to work with data by integrating data from several Citizen Observatories/other sources](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-integrating-data-from-several-citizen-observatories-other-sources)
+[I want to work with data by integrating data from several Citizen Observatories/other sources](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/jufBRUyWzlW5nLDPm4w3/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-integrating-data-from-several-citizen-observatories-other-sources)
 
-[I want to generate insights results from data and knowledge by visualising & interpreting data](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-generate-insights-and-results-from-our-data-and-knowledge-by-visualising-and-interpreting)
+[I want to generate insights results from data and knowledge by visualising & interpreting data](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/jufBRUyWzlW5nLDPm4w3/creating-and-running-a-citizen-observatory/i-want-to-generate-insights-and-results-from-our-data-and-knowledge-by-visualising-and-interpreting)
 
 [I want to generate insights results from data and knowledge by analysing data\
-](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-generate-insights-and-results-from-our-data-and-knowledge-by-analysing-the-data)
+](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/jufBRUyWzlW5nLDPm4w3/creating-and-running-a-citizen-observatory/i-want-to-generate-insights-and-results-from-our-data-and-knowledge-by-analysing-the-data)
 
 This work by parties of the WeObserve consortium is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/2.0/).![](https://www.weobserve.eu/wp-content/uploads/2021/03/CC.png)

@@ -65,9 +65,9 @@ The [Data Postcard Tool](https://discovery.dundee.ac.uk/en/publications/data-pos
 
 ## You may also be interested in:
 
-[I want to generate insights & results from our data & knowledge by analysing the data](../)
+[I want to generate insights & results from our data & knowledge by analysing the data](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/P2ESEVnb7x9THgs4UQg4/creating-and-running-a-citizen-observatory/i-want-to-generate-insights-and-results-from-our-data-and-knowledge-by-analysing-the-data)
 
-[I want to achieve impact with Citizen Observatory results by communicating the Citizen Observatory results effectively](i-want-to-work-with-data-by-integrating-data-from-several-citizen-observatories-other-sources.md)
+[I want to achieve impact with Citizen Observatory results by communicating the Citizen Observatory results effectively](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/rDoyUvGphEeojUPmEyRQ/achieving-impact-with-citizen-observatories/i-want-to-achieve-impacts-with-the-co-results-by-communicating-the-co-results-effectively)
 
 
 

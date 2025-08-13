@@ -82,11 +82,11 @@ Ensuring that the data collected by your Citizen Observatory are of adequate qua
 
 ## You may also be interested in:
 
-[I want to work with data by collecting data](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-collecting-data)
+[I want to work with data by collecting data](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/x5I625C1iAGsddh976A6/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-collecting-data)
 
-[I want to work with data by ensuring data quality](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-ensuring-data-quality)
+[I want to work with data by ensuring data quality](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/x5I625C1iAGsddh976A6/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-ensuring-data-quality)
 
-[I want to know what data and knowledge we need by finding out what exists already](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-know-what-data-and-knowledge-we-need-by-finding-out-what-exists-already)
+[I want to know what data and knowledge we need by finding out what exists already](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/x5I625C1iAGsddh976A6/creating-and-running-a-citizen-observatory/i-want-to-know-what-data-and-knowledge-we-need-by-finding-out-what-exists-already)
 
 
 

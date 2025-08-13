@@ -90,13 +90,13 @@ To help your participants along, provide supporting resources onboarding kits or
 
 ## You may also be interested in:
 
-[I want to work with data by managing data](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-managing-the-data)
+[I want to work with data by managing data](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/8pcnqIjPKKYwLNjvudDt/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-managing-the-data)
 
-[I want to work with data by ensuring data quality](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-ensuring-data-quality)
+[I want to work with data by ensuring data quality](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/8pcnqIjPKKYwLNjvudDt/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-ensuring-data-quality)
 
-[I want to work with data by sharing Citizen Observatory data](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-sharing-our-citizen-observatory-data)
+[I want to work with data by sharing Citizen Observatory data](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/8pcnqIjPKKYwLNjvudDt/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-sharing-our-citizen-observatory-data)
 
-[I want to work with data by integrating data from several Citizen Observatories/other sources](../)
+[I want to work with data by integrating data from several Citizen Observatories/other sources](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/8pcnqIjPKKYwLNjvudDt/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-integrating-data-from-several-citizen-observatories-other-sources)
 
 
 

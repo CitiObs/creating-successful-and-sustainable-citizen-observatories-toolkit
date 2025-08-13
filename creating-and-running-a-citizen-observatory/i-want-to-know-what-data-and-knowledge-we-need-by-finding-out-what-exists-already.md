@@ -47,7 +47,7 @@ After this review, you can then also check if an existing Citizen Observatory is
 
 ## You may also be interested in:
 
-[I want to know what data and knowledge we need by deciding what data to collect](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-know-what-data-and-knowledge-we-need-by-deciding-what-data-to-collect)
+[I want to know what data and knowledge we need by deciding what data to collect](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/x5I625C1iAGsddh976A6/creating-and-running-a-citizen-observatory/i-want-to-know-what-data-and-knowledge-we-need-by-deciding-what-data-to-collect)
 
 
 

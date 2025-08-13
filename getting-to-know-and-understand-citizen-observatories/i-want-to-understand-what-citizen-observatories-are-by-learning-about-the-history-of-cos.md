@@ -73,7 +73,7 @@ Looking at the historical pathway from the first Citizen Observatories funded by
 
 ## You may also be interested in:
 
-[I want to understand what Citizen Observatories are by learning about their characteristics.](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/getting-to-know-and-understand-citizen-observatories/i-want-to-understand-what-citizen-observatories-are-by-learning-about-their-characteristics)
+[I want to understand what Citizen Observatories are by learning about their characteristics.](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/9wjQmBWah4Fzqiiq1q3w/getting-to-know-and-understand-citizen-observatories/i-want-to-understand-what-citizen-observatories-are-by-learning-about-their-characteristics)
 
 
 

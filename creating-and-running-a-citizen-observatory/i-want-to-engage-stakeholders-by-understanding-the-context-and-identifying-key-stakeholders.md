@@ -56,9 +56,9 @@ As you expand your stakeholder groups, there are a number of tools you can use i
 
 ## You may also be interested in:
 
-[I want to engage stakeholders by learning how to work with various types of stakeholders](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-engage-stakeholders-by-learning-how-to-work-with-various-types-of-stakeholders)
+[I want to engage stakeholders by learning how to work with various types of stakeholders](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/R5pRZMh423VHCM8BdA6V/creating-and-running-a-citizen-observatory/i-want-to-engage-stakeholders-by-learning-how-to-work-with-various-types-of-stakeholders)
 
-[I want to engage stakeholders in ways that keep them motivated over time](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-engage-stakeholders-in-ways-that-keep-them-motivated-over-time)
+[I want to engage stakeholders in ways that keep them motivated over time](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/R5pRZMh423VHCM8BdA6V/creating-and-running-a-citizen-observatory/i-want-to-engage-stakeholders-in-ways-that-keep-them-motivated-over-time)
 
 
 
