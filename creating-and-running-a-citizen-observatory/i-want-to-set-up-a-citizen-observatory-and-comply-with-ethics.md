@@ -51,7 +51,7 @@ Among the range of issues to be addressed in order for Citizen Observatories to 
 >
 > The LandSense Citizen Observatory links many different applications together, which have been developed by different partners. To ensure compliance with the General Data Protection Regulation in the EU, all applications that use any type of personal data must have an associated Privacy Statement. This statement clearly indicates the data that are collected (including any personal data) and the purpose for which the data will be used, providing users with complete transparency. Users also always have opt-in consent, which means they must give their agreement to any application regarding their personal information, and they can request that their personal information be deleted at any time. In general, applications in LandSense have adopted a minimisation principle, i.e., only requesting personal information if it is necessary. Finally, any personal data are always securely stored in an encrypted database. More information can be found on the [LandSense Engagement Platform](https://landsense.eu/Project/LEP).
 >
-> [<img src="https://www.weobserve.eu/wp-content/uploads/2021/03/Cookbook-14.png" alt="LandSense and users&#x27; privacy" data-size="original">](https://www.weobserve.eu/wp-content/uploads/2021/03/Cookbook-14.png)
+> <p align="center"><img src="https://www.weobserve.eu/wp-content/uploads/2021/03/Cookbook-14.png" alt="LandSense and users&#x27; privacy" data-size="original"></p>
 
 #### **Recruitment of participants**
 

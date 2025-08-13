@@ -20,7 +20,7 @@ In some cases there is no data collection by validation or interpretation of sci
 
 #### **Devising a data collection scheme**
 
-Deciding what data to collect implies that you have identified through a gap analysis what data and knowledge you need and what already exists about the questions you are trying to address (more [here](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-know-what-data-and-knowledge-we-need-by-finding-out-what-exists-already) on how to find out what exists already)_._&#x20;
+Deciding what data to collect implies that you have identified through a gap analysis what data and knowledge you need and what already exists about the questions you are trying to address (more [here](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/WwGFgmKKvS9e1pqtjmsn/creating-and-running-a-citizen-observatory/i-want-to-know-what-data-and-knowledge-we-need-by-finding-out-what-exists-already) on how to find out what exists already)_._&#x20;
 
 For each issue (also called ‘monitoring theme’), you need to specify the following aspects:
 
@@ -44,7 +44,7 @@ You should take into account the _**type**_ of information to collect, the senso
 
 When defining the data collection scheme it is essential to adhere to standardised definitions provided (OGC, INSPIRE, Public Participation in Scientific Research, etc.) in order to facilitate interoperability and combined use with other data sources.
 
-The data collection scheme can inform the metadata describing the data set resulting from your data collections. Deciding on some metadata elements in advance can help you define the more technical aspects of your data collection scheme, such as the desired resolution of the data collected and thus the coordinate reference system used. See more on metadata for managing your data [here](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-managing-the-data) and for sharing your data [here](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-sharing-our-citizen-observatory-data).
+The data collection scheme can inform the metadata describing the data set resulting from your data collections. Deciding on some metadata elements in advance can help you define the more technical aspects of your data collection scheme, such as the desired resolution of the data collected and thus the coordinate reference system used. See more on metadata for managing your data [here](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/WwGFgmKKvS9e1pqtjmsn/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-managing-the-data) and for sharing your data [here](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/WwGFgmKKvS9e1pqtjmsn/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-sharing-our-citizen-observatory-data).
 
 The process of creating a data collection scheme can help a community to discuss what should be measured, when, where, how and by whom. Having a map of the geographic area where you would like to collect data allows everyone to pinpoint the location where they can capture data. Another useful tool is a shared calendar, so that everyone can collaborate on the best dates and times for capturing the data.
 
@@ -72,7 +72,7 @@ Also, remember that you may be inadvertently collecting personal data that is no
 
 **Ensuring data quality from the start**
 
-Ensuring that the data collected by your Citizen Observatory are of adequate quality is mainly a matter of keeping processes simple and making sure that sufficient support, clear instructions,  well-developed protocols and training are in place. Filtering the options that citizens can report, or using cross-validation mechanisms where some users validate others’ submissions, will contribute to a better data set. More on how to ensure data quality [here](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-ensuring-data-quality).
+Ensuring that the data collected by your Citizen Observatory are of adequate quality is mainly a matter of keeping processes simple and making sure that sufficient support, clear instructions,  well-developed protocols and training are in place. Filtering the options that citizens can report, or using cross-validation mechanisms where some users validate others’ submissions, will contribute to a better data set. More on how to ensure data quality [here](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/WwGFgmKKvS9e1pqtjmsn/creating-and-running-a-citizen-observatory/i-want-to-work-with-data-by-ensuring-data-quality).
 
 ## Useful Resources
 

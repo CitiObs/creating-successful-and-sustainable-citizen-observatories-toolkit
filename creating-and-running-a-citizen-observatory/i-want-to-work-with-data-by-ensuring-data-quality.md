@@ -6,7 +6,7 @@ A common concern about Citizen Observatories is uncertainty regarding the qualit
 
 ## How can this be done?
 
-Ensuring data quality should be done according to the specific scientific discipline(s) that your Citizen Observatory needs to draw on. This varies depending on which environmental issue you are focusing on. It requires the involvement of one or more trained scientists from those fields; they can help you design the appropriate scientific methodology that ensures your data will be fit for purpose (more on how to engage key stakeholders [here](https://app.gitbook.com/o/-LbbpkbPn14_lT165GF4/s/xhdGyRLggMekKhjUZVP1/~/changes/7/creating-and-running-a-citizen-observatory/i-want-to-engage-stakeholders-by-understanding-the-context-and-identifying-key-stakeholders)).
+Ensuring data quality should be done according to the specific scientific discipline(s) that your Citizen Observatory needs to draw on. This varies depending on which environmental issue you are focusing on. It requires the involvement of one or more trained scientists from those fields; they can help you design the appropriate scientific methodology that ensures your data will be fit for purpose (more on how to engage key stakeholders [here](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/uiHVOJe9hSNeUjvaa0Hd/creating-and-running-a-citizen-observatory/i-want-to-engage-stakeholders-by-understanding-the-context-and-identifying-key-stakeholders)).
 
 #### **Consider key elements of data quality**
 

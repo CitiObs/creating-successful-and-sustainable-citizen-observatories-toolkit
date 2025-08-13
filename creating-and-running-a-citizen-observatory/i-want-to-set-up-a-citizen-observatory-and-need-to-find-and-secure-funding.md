@@ -18,9 +18,9 @@ Crowdfunding can be useful for Citizen Observatories that have a limited spatial
 
 > ### Example from Mapping for Change
 >
-> <img src="https://www.weobserve.eu/wp-content/uploads/2021/03/Mapping-1024x359.png" alt="" data-size="original">
+> <p align="center"><img src="https://www.weobserve.eu/wp-content/uploads/2021/03/Mapping-1024x359.png" alt="" data-size="original"></p>
 >
-> Image: Mapping for Change
+> <p align="center">Image: Mapping for Change</p>
 >
 > [Mapping for Change](https://mappingforchange.org.uk/) is a social enterprise based in London that engages with communities around the UK to map air pollution across the country. In 2016, using online small crowdsourcing (SCS), they were able to secure funding from 26 individual funders to develop a Community Air Pollution Monitoring Map and Equipment library. With this they were able to purchase more sensors, which further supported communities in mapping air quality.
 
@@ -41,9 +41,9 @@ Another funding option is to create a partnership that runs on membership fees. 
 >
 > Due to these challenges, local and small-scale actors often need to develop innovative approaches to secure funding.
 >
-> <img src="https://www.weobserve.eu/wp-content/uploads/2021/03/AA-Funding-Challenges.png" alt="" data-size="original">
+> <p align="center"><img src="https://www.weobserve.eu/wp-content/uploads/2021/03/AA-Funding-Challenges.png" alt="" data-size="original"></p>
 >
-> Image: [AfriAlliance Policy Brief #2](https://afrialliance.org/files/downloads/2019-04/AfriAlliance_PolicyBrief%232.pdf)
+> <p align="center">Image: <a href="https://afrialliance.org/files/downloads/2019-04/AfriAlliance_PolicyBrief%232.pdf">AfriAlliance Policy Brief #2</a></p>
 
 ## Useful Resources
 

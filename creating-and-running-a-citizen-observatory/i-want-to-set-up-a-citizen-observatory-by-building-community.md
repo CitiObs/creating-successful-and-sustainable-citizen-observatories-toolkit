@@ -29,7 +29,7 @@ Here are some methods for raising awareness:
 * Creating an Onboarding Kit that welcomes and guides a new participant into the observatory and the team – this could include informative resources as well as community-building tools, and
 * Mapping your team’s skills to identify gaps and carry out more effective recruitment efforts,
 
-Once a critical mass of stakeholders are on board, there are different ways of co-designing the Citizen Observatory with them – you can find out more [here](https://www.weobserve.eu/wo-cookbook/i-want-to-set-up-a-citizen-observatory-via-a-suitable-co-design-process/).
+Once a critical mass of stakeholders are on board, there are different ways of co-designing the Citizen Observatory with them – you can find out more [here](https://books.fablabbcn.org/creating-successful-and-sustainable-cos-toolkit/~/revisions/tMuwtEUNMM1xM9Jks6aX/creating-and-running-a-citizen-observatory/i-want-to-set-up-a-citizen-observatory-through-a-suitable-co-design-process).
 
 #### **Supporting and encouraging two-way communication**
 
@@ -69,9 +69,9 @@ Consider which of the above activities would be most effective for the issues th
 
 > ### Lessons learned from the Ground Truth 2.0 project 
 >
-> ![Source: Anema et al. 2018](https://www.weobserve.eu/wp-content/uploads/2021/03/Anema-et-al.-2018.png)
+> <p align="center"><img src="https://www.weobserve.eu/wp-content/uploads/2021/03/Anema-et-al.-2018.png" alt="Source: Anema et al. 2018"></p>
 >
-> [Source: Anema et al. 2018](https://gt20.eu/wp-content/uploads/2020/06/GT2.0-D1.4-Updated-Engagement-Strategy_final.pdf)
+> <p align="center"><a href="https://gt20.eu/wp-content/uploads/2020/06/GT2.0-D1.4-Updated-Engagement-Strategy_final.pdf">Source: Anema et al. 2018</a></p>
 >
 > A community consists of stakeholders who identify or perceive themselves as being a part of it. For Ground Truth 2.0, a community of relevant stakeholders is at the heart of a Citizen Observatory. Community building in the Ground Truth 2.0 project was done by fostering social interactions that led stakeholders to identify with the group outcome, which requires not just intellectual, but also emotional experiences. Visible and symbolic acts, such as signing a consent form, registering an account for an app, posting to an online platform, participating in planning meetings, or in organised data collection campaigns, all served to create a sense of ‘membership’ and being a part of something bigger.
 >
