@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Getting to know and understand Citizen Observatories](README.md)
-  * [I want to understand what Citizen Observatories are by learning about their characteristics](getting-to-know-and-understand-citizen-observatories/i-want-to-understand-what-citizen-observatories-are-by-learning-about-their-characteristics.md)
-  * [I want to understand what Citizen Observatories are by learning about the history of COs](getting-to-know-and-understand-citizen-observatories/i-want-to-understand-what-citizen-observatories-are-by-learning-about-the-history-of-cos.md)
+* [Getting to know and understand Citizen Observatories and Citizen Science initiatives](README.md)
+  * [I want to understand what Citizen Observatories are by learning about their characteristics](getting-to-know-and-understand-citizen-observatories-and-citizen-science-initiatives/i-want-to-understand-what-citizen-observatories-are-by-learning-about-their-characteristics.md)
+  * [I want to understand what Citizen Observatories are by learning about the history of COs](getting-to-know-and-understand-citizen-observatories-and-citizen-science-initiatives/i-want-to-understand-what-citizen-observatories-are-by-learning-about-the-history-of-cos.md)
 * [Creating and running a Citizen Observatory](creating-and-running-a-citizen-observatory/README.md)
   * [I want to set up a Citizen Observatory by building community](creating-and-running-a-citizen-observatory/i-want-to-set-up-a-citizen-observatory-by-building-community.md)
   * [I want to set up a Citizen Observatory by identifying a shared issue](creating-and-running-a-citizen-observatory/i-want-to-set-up-a-citizen-observatory-by-identifying-a-shared-issue.md)
